@@ -6,4 +6,4 @@ Prior to join a web development bootcamp, I created these two game through vanil
 1/18/2017
 I survived the bootcamp and I did it!!
 
-![screenshot](/ChocoboRace/images/chocobo.gif?raw=true)
+![screenshot](/images/chocobo.gif?raw=true)
