@@ -1,4 +1,4 @@
-# Pixel Art Maker
+# chocoboRace and cardGame
 
 8/17/2016
 Prior to join a web development bootcamp, I created these two game through vanilla Javascript to prove to myself that I can do this.
